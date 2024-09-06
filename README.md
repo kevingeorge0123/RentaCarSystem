@@ -1,5 +1,5 @@
 ```branch
-Run cd src
+cd src
 ```
 ```branch
 javac Main.java
